@@ -1,4 +1,4 @@
-## Olá 👋🏻. Eu sou o Micael Rodrigues, estudante de programação e tecnologias!
+## Olá 👋🏻. Eu sou o Micael Rodrigues, estudante de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/micael-rodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micael-rodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
