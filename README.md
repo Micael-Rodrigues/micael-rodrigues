@@ -1,4 +1,4 @@
-##  Oiii eu sou o MIcael Rodrigues, técnico em informática e curioso da tecnologia!
+##  Olá 👋🏻 eu sou o Micael Rodrigues, técnico em informática e curioso da tecnologia! 😊
 <div align="center">
   <a href="https://github.com/micael-rodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micael-rodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
